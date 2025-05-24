@@ -201,7 +201,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **David M2C**
 - GitHub: [@davidm2c](https://github.com/davidm2c)
-- Email: tu-email@ejemplo.com
+- Email: Murillodavid9321@gmail.com
 
 ## 🙏 Agradecimientos
 
